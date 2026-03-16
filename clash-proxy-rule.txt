@@ -1,0 +1,7 @@
+#########################################
+# Author: iFlygo
+# Version: 2026-03-16-01
+# Github: https://github.com/colorsakura
+#########################################
+DOMAIN,youtrack.jetbrains.com
+DOMAIN,gitlab.archlinux.org
