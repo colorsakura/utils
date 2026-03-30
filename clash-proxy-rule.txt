@@ -5,3 +5,4 @@
 #########################################
 DOMAIN,youtrack.jetbrains.com
 DOMAIN-SUFFIX,archlinux.org
+DOMAIN,52pt.site
