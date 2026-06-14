@@ -4,5 +4,5 @@
 # Github: https://github.com/colorsakura
 #########################################
 DOMAIN,youtrack.jetbrains.com
-DOMAIN-SUFFIX,archlinux.org
 DOMAIN,52pt.site
+DOMAIN,share.dmhy.org
